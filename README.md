@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL]()
+- Solution URL: [URL](https://www.frontendmentor.io/solutions/skilled-elearning-landing-page-ExPJwORphi)
 - Live Site URL: [URL](https://lisviks.github.io/skilled-elearning-landing-page-frontendmentor/)
 
 ## My process
