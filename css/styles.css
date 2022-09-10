@@ -269,6 +269,7 @@ footer .footer-btn {
 
   .grid .grid-item {
     padding: 64px 32px 40px;
+    position: relative;
   }
 
   .grid .grid-item h3 {
@@ -285,6 +286,8 @@ footer .footer-btn {
   .grid .grid-item a {
     font-size: 18px;
     line-height: 28px;
+    position: absolute;
+    bottom: 40px;
   }
 
   footer .container {
