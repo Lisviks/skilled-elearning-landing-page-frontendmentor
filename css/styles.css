@@ -299,4 +299,27 @@ footer .footer-btn {
     font-size: 18px;
     padding: 14px 32px;
   }
+
+  /* HOVER */
+
+  .dark-btn:hover {
+    cursor: pointer;
+    background-color: #666ca3;
+  }
+
+  .hero-btn:hover {
+    cursor: pointer;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+      linear-gradient(180deg, #ff6f48 0%, #f02aa6 100%) !important;
+  }
+
+  .grid .grid-item a:hover {
+    color: #ffa7c3;
+  }
+
+  footer .footer-btn:hover {
+    cursor: pointer;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),
+      linear-gradient(180deg, #4851ff -54.32%, #f02aa6 100%);
+  }
 }
